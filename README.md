@@ -2,7 +2,7 @@
 Welcome to WicketWWWWWW's repository!
 
 I have no plan for now, and forever.
-But, something beneficial will be shared here.
+But, something beneficial for me and some people will be shared here.
 
 ## Details
 - Player (Agent?) on Ingress, AR mobile game.
